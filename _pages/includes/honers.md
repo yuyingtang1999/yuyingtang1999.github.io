@@ -6,7 +6,7 @@
 - *2018–2019* Second-class Scholarship, Central Academy of Fine Arts
 - *2017–2018* Third-class Scholarship, Central Academy of Fine Arts
 
-- # 🎖 Honors and Awards
+# 🎖 Honors and Awards
 - *2024.09* Red Dot Award: Design Concept – "AI Nushu" AI Art Work
 - *2024.08* 13th Lumen Prize Finalist – "AI Nushu" AI Art Work
 - *2023.10* Future Designer NCDA – "The Mirror" (First Prize)
