@@ -3,7 +3,7 @@
 ## AI for Screenwriting
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding Screenwriters’ Practices, Attitudes, and Future Expectations in Human-AI Co-Creation](https://arxiv.org/abs/2502.16153) \\
