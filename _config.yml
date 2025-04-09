@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuying Tang 唐誉瑛"
-description              : "PhD student, Human-Computer Interaction, Human-AI Interaction, and AI for Creativity."
+description              : "PhD student, Research Interests: Human-Computer Interaction, Human-AI Interaction, and AI for Creativity."
 repository               : "yuyingtang1999.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Yuying Tang 唐誉瑛"
   avatar           : "yuyingtang.jpg"
-  bio              : "PhD student, Human-Computer Interaction, Human-AI Interaction, and AI for Creativity."
+  bio              : "PhD student, Research Interests: Human-Computer Interaction, Human-AI Interaction, and AI for Creativity."
   location         : "The Hong Kong University of Science and Technology, Hong Kong SAR, China"
   employer         :
   pubmed           : 
