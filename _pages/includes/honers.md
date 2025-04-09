@@ -1,10 +1,33 @@
-# 🎖 Honors and Awards
-- *2021.10* Tencent Scholarship (Top 1%)
-- *2021.10* National Scholarship (Top 1%)
-- *2020.12* [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 students in the world each year)
-- *2020.12* [AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (100 worldwide each year)
-- *2020.12* [AI Chinese New Star Outstanding Scholar](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (10 candidates worldwide each year)
-- *2020.12* [ByteDance Scholars Program](https://ur.bytedance.com/scholarship) (10 students in China each year)
-- *2020.10* Tianzhou Chen Scholarship (Top 1%)
-- *2020.10* National Scholarship (Top 1%)
-- *2015.10* National Scholarship (Undergraduate) (Top 1%)
+# 💰 Scholarships
+- *2024–2028* [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html), Hong Kong SAR
+- *2022–2023* [China Scholarship Council (CSC)](https://www.chinesescholarshipcouncil.com/) Scholarship, China
+- *2021–2022* Second-class Scholarship, Tsinghua University
+- *2019–2020* First-class Scholarship, Central Academy of Fine Arts
+- *2018–2019* Second-class Scholarship, Central Academy of Fine Arts
+- *2017–2018* Third-class Scholarship, Central Academy of Fine Arts
+
+- # 🎖 Honors and Awards
+- *2024.09* Red Dot Award: Design Concept – "AI Nushu" AI Art Work
+- *2024.08* 13th Lumen Prize Finalist – "AI Nushu" AI Art Work
+- *2023.10* Future Designer NCDA – "The Mirror" (First Prize)
+- *2023.08* Global American New Concept Design Award – "The Mirror" (First Prize)
+- *2023.08* Global American New Concept Design Award – "KuaiRun Digital Shoes" (First Prize)
+- *2023.08* Global American New Concept Design Award – "Generate Art Series: Shadow Cave" (Third Prize)
+- *2022.12* DESIGNNOVA International Design Competition – "The Mirror" (Excellence Award)
+- *2022.11* Live Action Short Film New Talent Competition, Tallinn Noir International Film Festival – "Hourglass House" (Finalist)
+- *2022.11* Hong Kong Digital Art Design Competition – "KuaiRun Digital Shoes" (First Prize)
+- *2022.10* Beijing International Film Festival – "Hourglass House" (Finalist)
+- *2022.10* ITCD International Trend Design Competition – "WARP SPACE" (Silver Award)
+- *2022.10* ITCD International Trend Design Competition – "KuaiRun Digital Shoes" (Bronze Award)
+- *2022.09* MIFW MAO International Youth Film Week – "Hourglass House" (Best Film, Best Art Award)
+- *2022.09* CAE London Chinese Art Exchange Exhibition – "WARP SPACE" (Bronze Award)
+- *2022.09* CAE London Chinese Art Exchange Exhibition – "Shadow Cave" (Third Prize)
+- *2022.08* China-Italy Youth Art Competition – "WARP SPACE" (Third Prize)
+- *2022.08* DESIGNNOVA International Design Competition – "KuaiRun Digital Shoes" (Excellence Award)
+- *2022.07* DESIGNNOVA International Design Competition – "WARP SPACE" (Finalist)
+- *2021.12* MFF Cross-Strait Youth Film Festival – "Hourglass House" (Most Creative Work Award)
+- *2021.11* The 8th Chongqing Youth Film Festival – "Hourglass House" (Best Cinematography Award)
+- *2020.10* Best Student Award, Central Academy of Fine Arts (2018–2019, 2019–2020)
+- *2020.10* Excellent Social Work Award, Central Academy of Fine Arts (2019–2020)
+- *2019.11* Central Academy of Fine Arts – "WARP SPACE" (Third Prize of Excellent Works)
+
