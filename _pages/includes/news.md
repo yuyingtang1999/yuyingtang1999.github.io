@@ -1,6 +1,8 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2025.04*: 🎤 Presented my new paper at CHI 2025!
+- *2025.02*: 🧑‍⚖️ Served as an Associate Chair at ACM CHI LBW 2025!
+- *2025.01*: 📝 Served as a reviewer for ACM CSCW 2025!
+- *2024.10*: 🏆 "AI Nushu" art project won the Lumen Prize!
+- *2024.08*: 🟥 "AI Nushu" art project received the Red Dot Award!
+- *2024.06*: 🎓 Graduated with a Master’s degree from Tsinghua University!
+- *2023.12*: 🇮🇹 Graduated from Politecnico di Milano and showcased AI Nushu at SIGGRAPH Asia 2023 in Sydney!
