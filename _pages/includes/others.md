@@ -3,8 +3,7 @@
 - *2024 - Present*, Doctor of Philosophy, Hong Kong University of Science and Technology (Hong Kong SAR), Individualized Interdisciplinary Program. (HKPFS)
   Supervisor: Professor Huamin Qu, Associate Professor Xiaojuan Ma  
 
-- *2021 - 2024*, Master of Fine Arts, Tsinghua University (China), Academy of Art and Design.  
-  Exemption from examination  
+- *2021 - 2024*, Master of Fine Arts, Tsinghua University (China), Academy of Art and Design.
   Supervisor: Professor Zhigang Wang  
 
 - *2022 - 2023*, Master of Science, Polytechnic University of Milan (Italy), School of Design, Communication Design (Double Degree). 
@@ -12,7 +11,6 @@
   Final Thesis: The role of artificial intelligence tools for generating images in the creation of art and design artifacts
 
 - *2017 - 2021*, Bachelor of Fine Arts, Central Academy of Fine Arts (China), Film and Television Photography and Production.  
-  Rank: Top 1%
 
 # 🔬 Research Experience
 - *2023 Summer*, Research Assistant, Aalto University, School of Electrical Engineering (Finland), Department of Information and Communications Engineering.  
