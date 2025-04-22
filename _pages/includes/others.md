@@ -1,19 +1,40 @@
 
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+- *2024 - Present*, Doctor of Philosophy, Hong Kong University of Science and Technology (Hong Kong SAR), Individualized Interdisciplinary Program.  
+  Supervisor: Professor Huamin Qu, Associate Professor Xiaojuan Ma  
+  HKPFS
 
-# 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+- *2021 - 2024*, Master of Fine Arts, Tsinghua University (China), Academy of Art and Design.  
+  Exemption from examination  
+  Supervisor: Professor Zhigang Wang  
 
-# 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+- *2022 - 2023*, Master of Science, Polytechnic University of Milan (Italy), School of Design, Communication Design (Double Degree).  
+  CSC Scholarship  
+  Supervisor: Dr. Mariana Ciancia  
+  Final Thesis: The role of artificial intelligence tools for generating images in the creation of art and design artifacts
+
+- *2017 - 2021*, Bachelor of Fine Arts, Central Academy of Fine Arts (China), Film and Television Photography and Production.  
+  Rank: Top 1%
+
+# 🔬 Research Experience
+- *2023 Summer*, Research Assistant, Aalto University, School of Electrical Engineering (Finland), Department of Information and Communications Engineering.  
+  Supervisor: Professor Antti Oulasvirta, PhD Candidate Lena Hegemann  
+  **Project**: AI-assisted Conversational Color Design  
+  Tasks: User interface pilot design, user study, visual communication and information design
+
+- *2023 Summer*, Research Assistant, HCIX Research  
+  **Project**: Speculative Design with Generative AI  
+  Tasks: User study, workflow design, related work analysis, design implication analysis, paper writing
+
+- *2022 - 2023*, Research Assistant, MIT Media Lab & Tongji University, City Science Lab@Shanghai  
+  Supervisor: Lecturer Yang Liu, PhD Candidate Yan Zhang  
+  **Project**: SoCity Web3.0 DAO and Green Commute  
+  Tasks: Sustainable branding design, video making, system design, workflow design
+
+- *2020 - 2022*, Core Researcher, China Association for Science and Technology – Tsinghua University  
+  Supervisor: Professor Zhigang Wang, Dr. Yansong Chen  
+  **Project**: Exhibition Design of the Thematic Science Popularization Space Based on Scientific Visualization
+
+- *2020 Summer*, Research Assistant, Zhejiang University, International Design Institute, IDEA Lab  
+  Supervisor: Professor Lingyun Sun  
+  **Project**: Artificial Intelligence Automatic Editing of Videos
