@@ -1,8 +1,7 @@
 
 # 📖 Educations
-- *2024 - Present*, Doctor of Philosophy, Hong Kong University of Science and Technology (Hong Kong SAR), Individualized Interdisciplinary Program.  
+- *2024 - Present*, Doctor of Philosophy, Hong Kong University of Science and Technology (Hong Kong SAR), Individualized Interdisciplinary Program. (HKPFS)
   Supervisor: Professor Huamin Qu, Associate Professor Xiaojuan Ma  
-  HKPFS
 
 - *2021 - 2024*, Master of Fine Arts, Tsinghua University (China), Academy of Art and Design.  
   Exemption from examination  
