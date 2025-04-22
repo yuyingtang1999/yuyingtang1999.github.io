@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## AI for Screenwriting
+## AI for Creativity
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='overview.jpg' alt="sym" width="100%"></div></div>
