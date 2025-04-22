@@ -16,7 +16,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='cscw24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -29,7 +29,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2024</div><img src='being-eroded.jpg' alt="being-eroded" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2024</div><img src='being.jpg' alt="being-eroded" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ["Being Eroded, Piece by Piece": Enhancing Engagement and Storytelling in Cultural Heritage Dissemination by Exhibiting GenAI Co-Creation Artifacts](#)  \\
@@ -40,7 +40,7 @@ Kexue Fu, Ruishan Wu, **Yuying Tang**, Yixin Chen, Bowen Liu, RAY LC
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia Art Gallery 2023</div><img src='nushu-gallery.jpg' alt="nushu-gallery" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia Art Gallery 2023</div><img src='art gallery.png' alt="nushu-gallery" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AI Nüshu (Women's Scripts) – An Exploration of Language Emergence in Sisterhood](#)  \\
@@ -51,7 +51,7 @@ Kexue Fu, Ruishan Wu, **Yuying Tang**, Yixin Chen, Bowen Liu, RAY LC
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia Art Paper 2023</div><img src='nushu2.jpg' alt="nushu2" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia Art Paper 2023</div><img src='art paper.png' alt="nushu2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AI Nüshu: An Exploration of Language Emergence in Sisterhood Through the Lens of Computational Linguistics](#)  \\
@@ -62,7 +62,7 @@ Yuqian Sun, **Yuying Tang** (Co-first author), Ze Gao, Zhijun Pan, Chuyan Xu, Yu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARTECH 2023</div><img src='climate.jpg' alt="climate" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARTECH 2023</div><img src='speculative.png' alt="climate" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Speculative Design with Generative AI: Applying Stable Diffusion and ChatGPT to Imagining Climate Change Futures](#)  \\
@@ -74,7 +74,7 @@ Ray LC, **Yuying Tang**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2023</div><img src='degov4vc.jpg' alt="degov4vc" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2023</div><img src='DeGov4VC.png' alt="degov4vc" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Decentralized Governance for Virtual Community (DeGov4VC): Optimal Policy Design of Human-Plant Symbiosis Co-Creation](#)  \\
