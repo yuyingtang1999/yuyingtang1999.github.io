@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.04*: 🎬 My AI film *The Mirror* was awarded Honorable Mention at the HKUST AI Film Festival, screened at the festival, covered by over 200 media outlets globally, and featured in an interview with i-CABLE News (HK)!
 - *2025.04*: 🎤 Presented my new paper at CHI 2025!
 - *2025.02*: 🧑‍⚖️ Served as an Associate Chair at ACM CHI LBW 2025!
 - *2025.01*: 📝 Served as a reviewer for ACM CSCW 2025!
