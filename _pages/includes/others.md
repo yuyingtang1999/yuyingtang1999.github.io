@@ -7,8 +7,7 @@
   Exemption from examination  
   Supervisor: Professor Zhigang Wang  
 
-- *2022 - 2023*, Master of Science, Polytechnic University of Milan (Italy), School of Design, Communication Design (Double Degree).  
-  CSC Scholarship  
+- *2022 - 2023*, Master of Science, Polytechnic University of Milan (Italy), School of Design, Communication Design (Double Degree). 
   Supervisor: Dr. Mariana Ciancia  
   Final Thesis: The role of artificial intelligence tools for generating images in the creation of art and design artifacts
 
