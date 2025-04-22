@@ -20,16 +20,13 @@
 - *2023 Summer*, Research Assistant, Aalto University, School of Electrical Engineering (Finland), Department of Information and Communications Engineering.  
   Supervisor: Professor Antti Oulasvirta, PhD Candidate Lena Hegemann  
   **Project**: AI-assisted Conversational Color Design  
-  Tasks: User interface pilot design, user study, visual communication and information design
 
 - *2023 Summer*, Research Assistant, HCIX Research  
   **Project**: Speculative Design with Generative AI  
-  Tasks: User study, workflow design, related work analysis, design implication analysis, paper writing
 
 - *2022 - 2023*, Research Assistant, MIT Media Lab & Tongji University, City Science Lab@Shanghai  
   Supervisor: Lecturer Yang Liu, PhD Candidate Yan Zhang  
   **Project**: SoCity Web3.0 DAO and Green Commute  
-  Tasks: Sustainable branding design, video making, system design, workflow design
 
 - *2020 - 2022*, Core Researcher, China Association for Science and Technology – Tsinghua University  
   Supervisor: Professor Zhigang Wang, Dr. Yansong Chen  
