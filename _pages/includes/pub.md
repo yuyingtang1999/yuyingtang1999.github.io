@@ -15,26 +15,38 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia Art Gallery 2023</div><img src='nushu-gallery.jpg' alt="nushu-gallery" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[AI Nüshu (Women's Scripts) – An Exploration of Language Emergence in Sisterhood](#)  \\
-**Yuying Tang**, Yifan Sun, Zixuan Gao, Ziyu Pan, Zhigang Wang, Tristan Braud, ... & Amin Asadipour
-
-- **Art Gallery; Language Emergence; Generative AI; Sisterhood Narratives**
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 [Exploring the Impact of AI-generated Image Tools on Professional and Non-professional Users in the Art and Design Fields](#)  \\
 **Yuying Tang**, Ningning Zhang, Mariana Ciancia, Zhigang Wang
 
-- **AI Tools; Creative Practice; Art and Design; Human Factors**
+- **AI-generated Image Tools; Creative Practice; Art and Design; Human Factors**
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2024</div><img src='being-eroded.jpg' alt="being-eroded" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["Being Eroded, Piece by Piece": Enhancing Engagement and Storytelling in Cultural Heritage Dissemination by Exhibiting GenAI Co-Creation Artifacts](#)  \\
+Kexue Fu, Ruishan Wu, **Yuying Tang**, Yixin Chen, Bowen Liu, RAY LC
+
+- **Cultural Heritage; Generative AI; Storytelling; Participatory Design; Exhibition Design**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia Art Gallery 2023</div><img src='nushu-gallery.jpg' alt="nushu-gallery" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AI Nüshu (Women's Scripts) – An Exploration of Language Emergence in Sisterhood](#)  \\
+**Yuying Tang**, Yuqian Sun, Ze Gao, Zhijun Pan, Zhigang Wang, Tristan Braud, Chang Hee Lee, Ali Asadipour
+
+- **Arts and Humanities; Language Emergence; Artificial intelligence; Sisterhood Narratives**
 
 </div>
 </div>
@@ -43,14 +55,14 @@
 <div class='paper-box-text' markdown="1">
 
 [AI Nüshu: An Exploration of Language Emergence in Sisterhood Through the Lens of Computational Linguistics](#)  \\
-Yifan Sun, **Yuying Tang** (Co-first author), Zixuan Gao, Ziyu Pan, et al.
+Yuqian Sun, **Yuying Tang** (Co-first author), Ze Gao, Zhijun Pan, Chuyan Xu, Yurou Chen, Kejiang Qian, Zhigang Wang, Tristan Braud, Chang Hee Lee, Ali Asadipour
 
-- **Computational Creativity; Gender Studies; AI & Language; Visual Culture**
+- **Arts and Humanities; Language Emergence; Artificial intelligence; Sisterhood Narratives**
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARTECH 2024</div><img src='climate.jpg' alt="climate" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARTECH 2023</div><img src='climate.jpg' alt="climate" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Speculative Design with Generative AI: Applying Stable Diffusion and ChatGPT to Imagining Climate Change Futures](#)  \\
@@ -61,24 +73,15 @@ Ray LC, **Yuying Tang**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2024</div><img src='heritage.jpg' alt="heritage" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2023</div><img src='degov4vc.jpg' alt="degov4vc" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Engagement and Storytelling in Cultural Heritage Dissemination by Exhibiting GenAI Co-Creation Artifacts](#)  \\
-Kaifeng Fu, Ruochen Wu, **Yuying Tang**, Xiaoyu Chen, et al.
+[Decentralized Governance for Virtual Community (DeGov4VC): Optimal Policy Design of Human-Plant Symbiosis Co-Creation](#)  \\
+Yan Xiang, Qianhui Fan, Kejiang Qian, Jiajie Li, **Yuying Tang**, Ze Gao
 
-- **Cultural Heritage; Generative AI; Storytelling; Audience Engagement**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2023</div><img src='degov.jpg' alt="degov" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DeGov4VC: Optimal Policy Design of Human-Plant Symbiosis Co-Creation in Virtual Communities](#)  \\
-Yuxuan Xiang, Qifan Fan, Kai Qian, Jingwei Li, **Yuying Tang**, Zixuan Gao
-
-- **Virtual Communities; Decentralized Governance; Sustainability; Symbiosis Design**
+- **Decentralized Systems; Virtual Communities; Human-Plant Interaction; Governance Design**
 
 </div>
 </div>
+
