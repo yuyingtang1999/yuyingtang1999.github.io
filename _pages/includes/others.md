@@ -21,7 +21,6 @@
   **Project**: Speculative Design with Generative AI  
 
 - *2022 - 2023*, Research Assistant, MIT Media Lab & Tongji University, City Science Lab@Shanghai  
-  Supervisor: Lecturer Yang Liu, PhD Candidate Yan Zhang  
   **Project**: SoCity Web3.0 DAO and Green Commute  
 
 - *2020 - 2022*, Core Researcher, China Association for Science and Technology – Tsinghua University  
