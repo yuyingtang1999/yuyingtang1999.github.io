@@ -5,10 +5,11 @@
 
 - *2021 - 2024*, Master of Fine Arts, Tsinghua University (China), Academy of Art and Design.
   Supervisor: Professor Zhigang Wang  
+  Final Thesis: Science Popularization Design of Attachment Styles Based on Generative Artificial Intelligence Technology
 
 - *2022 - 2023*, Master of Science, Polytechnic University of Milan (Italy), School of Design, Communication Design (Double Degree). 
   Supervisor: Dr. Mariana Ciancia  
-  Final Thesis: The role of artificial intelligence tools for generating images in the creation of art and design artifacts
+  Final Thesis: The Role of Artificial Intelligence Tools for Generating Images in the Creation of Art and Design Artifacts
 
 - *2017 - 2021*, Bachelor of Fine Arts, Central Academy of Fine Arts (China), Film and Television Photography and Production.  
 
