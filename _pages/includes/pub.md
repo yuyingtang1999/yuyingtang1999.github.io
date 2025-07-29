@@ -1,11 +1,22 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='UIST2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PaperBridge: Crafting Research Narratives through Human-AI Co-Exploration](https://arxiv.org/abs/2507.14527) \\
+Runhua Zhang, Yang Ouyang, Leixian Shen, **Yuying Tang**, Xiaojuan Ma, Huamin Qu, Xian Xu
+
+- **Academic Communication; Storytelling; Human-AI Collaboration**
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Understanding Screenwriters’ Practices, Attitudes, and Future Expectations in Human-AI Co-Creation](https://arxiv.org/abs/2502.16153) \\
+[Understanding Screenwriters’ Practices, Attitudes, and Future Expectations in Human-AI Co-Creation](https://dl.acm.org/doi/full/10.1145/3706598.3714120) \\
 **Yuying Tang**, Haotian Li, Minghe Lan, Xiaojuan Ma, Huamin Qu
 
 
