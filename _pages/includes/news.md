@@ -1,7 +1,7 @@
 # 🔥 News
 - *2025.10*: 📝 I serve as a reviewer for ACM CHI 2026.
 - *2025.09*: 🇰🇷 I participate in UIST 2025 in Busan.
-- *2025.09*: 🇺🇸 I am currently visiting Seattle, San Francisco, Boston, and New York for academic exchange activities. I am also exploring potential self-funded visiting opportunities for Fall 2026 or 2027. If you know of a suitable opportunity or would like to connect, please feel free to reach out!
+- *2025.09*: 🇺🇸 I am currently visiting Seattle, San Francisco, Boston, and New York for academic exchange activities. I am also exploring potential self-funded visiting opportunities and industry internships for Fall 2026 or 2027.
 - *2025.08*: 📝 I serve as a reviewer for NeurIPS 2025 Creative AI Track.
 - *2025.08*: 🇨🇦 I participate in SIGGRAPH 2025 in Vancouver.
 - *2025.04*: 🎬 My AI film *The Mirror* receives an Honorable Mention at the HKUST AI Film Festival, is screened at the event, covered by over 200 media outlets globally, and featured in an interview with i-CABLE News (HK).
