@@ -1,6 +1,28 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='CHI2026workshop.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[How Do Human Creators Embrace Human-AI Co-Creation? A Perspective on Human Agency of Screenwriters](https://arxiv.org/abs/2602.06327)\\
+**Yuying Tang**, Jiayi Zhou, Haotian Li, Xing Xie, Xiaojuan Ma, Huamin Qu
+
+- **Human-AI Co-creation; Screenwriting; Human Agency; Human-AI Interaction**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='CHI2026system.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DuoDrama: Supporting Screenplay Refinement Through LLM-Assisted Human Reflection](https://arxiv.org/abs/2602.05854)\\
+**Yuying Tang**, Xinyi Chen, Haotian Li, Xing Xie, Xiaojuan Ma, Huamin Qu
+
+- **Human-AI Co-creation; Human Reflection; Screenwriting; MultiAgent System; Proactive Agent**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='UIST2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
