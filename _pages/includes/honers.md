@@ -7,6 +7,7 @@
 - *2017–2018* Third-class Scholarship, Central Academy of Fine Arts
 
 # 🎖 Honors and Awards
+- *2025.08* HKUST Spotlight on Women Leaders
 - *2024.09* Red Dot Award: Design Concept – "AI Nushu" AI Art Work
 - *2024.08* 13th Lumen Prize Finalist – "AI Nushu" AI Art Work
 - *2023.10* Future Designer NCDA – "The Mirror" (First Prize)
