@@ -35,7 +35,7 @@ Runhua Zhang, Yang Ouyang, Leixian Shen, **Yuying Tang**, Xiaojuan Ma, Huamin Qu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='CHI25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding Screenwriters’ Practices, Attitudes, and Future Expectations in Human-AI Co-Creation](https://dl.acm.org/doi/full/10.1145/3706598.3714120) \\
