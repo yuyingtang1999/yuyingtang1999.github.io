@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.04*: 🇪🇸 I present two new papers at CHI 2026!
+- *2026.04*: 🇪🇸 I will present two new papers at CHI 2026!
 - *2026.04*: 🇬🇧 I will visit the University of Cambridge, the University of Oxford, Imperial College London, University of the Arts London, the Royal College of Art, and the University of Edinburgh for academic exchange activities in early April. I would be happy to connect and chat!
 - *2026.02*: 📝 I serve as a reviewer for DIS and Creativity & Cognition 2026.
 - *2025.10*: 📝 I serve as a reviewer for CHI 2026.
