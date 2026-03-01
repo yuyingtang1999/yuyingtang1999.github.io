@@ -6,7 +6,7 @@
 - *2025.10*: 📝 I serve as a reviewer for CHI 2026 and IJHCI.
 - *2025.09*: 🇰🇷 I participate in UIST 2025 in Busan, South Korea.
 - *2025.09*: 🇺🇸 I visit Seattle, San Francisco, Boston, and New York for academic visits.
-- *2025.08*: 📝 I serve as a reviewer for NeurIPS 2025 Creative AI Track.
+- *2025.08*: 📝 I serve as a reviewer for NeurIPS Creative AI Track 2025.
 - *2025.08*: 🇨🇦 I participate in SIGGRAPH 2025 in Vancouver, Canada.
 - *2025.04*: 🎬 My AI film *The Mirror* receives an Honorable Mention at the HKUST AI Film Festival, is screened at the event, covered by over 200 media outlets globally, and featured in an interview with i-CABLE News (HK).
 - *2025.04*: 🇯🇵 I present my new paper at CHI 2025 in Yokohama, Japan.
