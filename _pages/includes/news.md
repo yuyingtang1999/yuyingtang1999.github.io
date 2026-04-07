@@ -10,4 +10,3 @@
 - *2025.04*: 🇯🇵 I present my new paper at CHI 2025 in Yokohama, Japan.
 - *2025.02*: 🧑‍⚖️ I serve as an Associate Chair at CHI LBW 2025.
 - *2025.01*: 📝 I serve as a reviewer for CSCW 2025.
-- *2024.04*: 🏆 I receive the Hong Kong PhD Fellowship Scheme (HKPFS)!
