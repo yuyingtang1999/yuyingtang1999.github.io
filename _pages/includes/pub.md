@@ -48,7 +48,7 @@ Runhua Zhang, Yang Ouyang, Leixian Shen, **Yuying Tang**, Xiaojuan Ma, Huamin Qu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='cscw24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW Poster 2024</div><img src='cscw24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
