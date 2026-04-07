@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.04*: 🇪🇸 I will present two new papers at CHI 2026 in Barcelona, Spain. I am also exploring self-funded visiting opportunities for Fall 2026 or 2027. If you know of relevant opportunities, I would be happy to hear from you! ❤️
+- *2026.04*: 🇪🇸 I present two new papers at CHI 2026 in Barcelona, Spain.
 - *2026.02*: 📝 I serve as a reviewer for DIS 2026 and Creativity & Cognition 2026.
 - *2025.12*: 🇭🇰 I serve as a volunteer for SIGGRAPH Asia 2025 in Hong Kong SAR.
 - *2025.10*: 📝 I serve as a reviewer for CHI 2026 and IJHCI.
