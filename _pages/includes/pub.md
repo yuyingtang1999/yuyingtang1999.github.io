@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='CHI2026workshop.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[How Do Human Creators Embrace Human-AI Co-Creation? A Perspective on Human Agency of Screenwriters](https://arxiv.org/abs/2602.06327)\\
+[How Do Human Creators Embrace Human-AI Co-Creation? A Perspective on Human Agency of Screenwriters](https://dl.acm.org/doi/10.1145/3772318.3790300)\\
 **Yuying Tang**, Jiayi Zhou, Haotian Li, Xing Xie, Xiaojuan Ma, Huamin Qu
 
 - **Human-AI Co-creation; Screenwriting; Human Agency; Human-AI Interaction**
@@ -15,7 +15,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='CHI2026system.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DuoDrama: Supporting Screenplay Refinement Through LLM-Assisted Human Reflection](https://arxiv.org/abs/2602.05854)\\
+[DuoDrama: Supporting Screenplay Refinement Through LLM-Assisted Human Reflection](https://dl.acm.org/doi/10.1145/3772318.3790568)\\
 **Yuying Tang**, Xinyi Chen, Haotian Li, Xing Xie, Xiaojuan Ma, Huamin Qu
 
 - **Human-AI Co-creation; Human Reflection; Screenwriting; MultiAgent System; Proactive Agent**
@@ -26,7 +26,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='UIST2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PaperBridge: Crafting Research Narratives through Human-AI Co-Exploration](https://arxiv.org/abs/2507.14527) \\
+[PaperBridge: Crafting Research Narratives through Human-AI Co-Exploration](https://dl.acm.org/doi/10.1145/3746059.3747713) \\
 Runhua Zhang, Yang Ouyang, Leixian Shen, **Yuying Tang**, Xiaojuan Ma, Huamin Qu, Xian Xu
 
 - **Academic Communication; Storytelling; Human-AI Collaboration**
