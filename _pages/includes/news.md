@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.07*: 📝 I will be teaching a course “AI for Creative Visual Content Generation, Editing, and Understanding” at SIGGRAPH 2026 in Los Angeles, USA.
+- *2026.05*: 📝 I serve as a reviewer for UIST 2026.
 - *2026.04*: 🇪🇸 I present two new papers at CHI 2026 in Barcelona, Spain.
 - *2026.02*: 📝 I serve as a reviewer for DIS 2026 and Creativity & Cognition 2026.
 - *2025.12*: 🇭🇰 I serve as a volunteer for SIGGRAPH Asia 2025 in Hong Kong SAR.
