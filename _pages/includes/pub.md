@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Creativity & Cognition 2026</div><img src='ai_talk_show_sample1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Creativity & Cognition Poster 2026</div><img src='ai_talk_show_sample1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding Human Engagement with AI-Extended Characters in Creative Media: A Preliminary Investigation into AI Talk Shows](https://dl.acm.org/doi/full/10.1145/3803784.3816817)\\
