@@ -1,8 +1,8 @@
 # 🔥 News
-- *2026.07*: 🇺🇸 I organize and present our course on *AI for Creative Visual Content Generation, Editing, and Understanding* at SIGGRAPH 2026 in Los Angeles, USA.
-- *2026.07*: 🇬🇧 I present my new poster at Creativity & Cognition 2026 in London, UK. Many thanks to my collaborators!
+- *2026.07*: 🇺🇸 I organize and present our course on *AI for Creative Visual Content Generation, Editing, and Understanding* at SIGGRAPH 2026 in Los Angeles, USA. Many thanks to my collaborators!
+- *2026.07*: 🇬🇧 I present my new poster at Creativity & Cognition 2026 in London, UK. Many thanks to my team!
 - *2026.05*: 📝 I serve as a reviewer for UIST 2026 and the International Journal of Human–Computer Interaction.
-- *2026.04*: 🇪🇸 I present two new papers at CHI 2026 in Barcelona, Spain. Many thanks to my collaborators!
+- *2026.04*: 🇪🇸 I present two new papers at CHI 2026 in Barcelona, Spain. Grateful to all my collaborators for their support!
 - *2026.02*: 📝 I serve as a reviewer for DIS 2026 and Creativity & Cognition 2026.
 - *2025.12*: 🇭🇰 I serve as a volunteer for SIGGRAPH Asia 2025 in Hong Kong SAR.
 - *2025.10*: 📝 I serve as a reviewer for CHI 2026 and the International Journal of Human–Computer Interaction.
