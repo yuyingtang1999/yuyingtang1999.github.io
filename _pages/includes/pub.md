@@ -12,6 +12,17 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Course 2026</div><img src='SigCourse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AI for Creative Visual Content Generation, Editing, and Understanding](https://dl.acm.org/doi/10.1145/3799820.3812481)\\
+Zheng Wei, **Yuying Tang**, Mia Tang, Anyi Rao
+
+- **Creative Content; Generative AI; AIGC; Human-AI Interaction**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='CHI2026workshop.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
